@@ -1,0 +1,7 @@
+TianLongBaBu WndClass
+ThienLongHub WndClass
+ThienLongPri WndClass
+ThienLongTK2 WndClass
+ThienLong KN WndClass
+TLBBPhatKhin WndClass
+#32770
